@@ -1,4 +1,4 @@
-# Download-All-Gists-Node.JS-ScriptS
+# Download-All-Gists-Node.JS-Script
 Download all of your github gists locally
 
 This is a little Node.js script to download all your github gists locally.
